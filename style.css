@@ -1,0 +1,9 @@
+body {
+  font: 150% georgia, sans-serif;
+  color: #3b3630;
+  background-color: FloralWhite;
+  background-size: 30px 30px;
+  background-image:
+	linear-gradient(to right, lightgrey 1px, transparent 1px),
+	linear-gradient(to bottom, lightgrey 1px, transparent 1px);
+}
