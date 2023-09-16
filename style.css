@@ -60,3 +60,9 @@ body {
 	float: right;
 	width: 200px;
 }
+
+.proc {
+	display: block;
+	margin: auto;
+	width: 800px;
+}
