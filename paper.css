@@ -66,3 +66,14 @@ body {
 	margin: auto;
 	width: 800px;
 }
+
+.styleswitcher {
+	background-color: #282828;
+	color: #11aa11;
+	font-family: monospace;	
+}
+
+.styleswitcher:hover {
+	background-color: #050405;
+}
+

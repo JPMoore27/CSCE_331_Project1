@@ -1,0 +1,68 @@
+body {
+	background: #282828;
+	color: #11AA11;
+	font-family: monospace;
+	font-size: 150%;
+}
+
+ul {
+	list-style-type: square;
+}
+
+.title {
+	font-size: 200%;
+	margin-left: 500px;
+}
+
+.links {
+}
+
+.linkslist {
+	display: block;
+	text-align: left;
+}
+
+.linksentry {
+	padding: 20px;
+}
+
+.portrait {
+	float: left;
+	margin-right: 50px;
+	margin-left: 50px;
+	width: 400px;
+}
+
+.resume {
+	margin: auto;
+	width: 100%;
+	height: 140%;
+}
+
+.crossbar {
+	display: block;
+	float: right;
+}
+
+.zachry {
+	display: block;
+	float: left;
+	margin-right: 5%;
+	margin-left: 2.5%;
+	width: 40%;
+}
+
+.proc {
+	float: right;
+	width: 800px;
+}
+
+.styleswitcher {
+	background-color: floralwhite;
+	size: 150%;
+	font-family: sans-serif;	
+}
+
+.styleswitcher:hover {
+	background-color: #ded9d1;
+}
